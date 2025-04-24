@@ -1,7 +1,0 @@
-syntax = "proto3";
-package POGOProtos.Settings;
-
-message PokecoinPurchaseDisplaySettings {
-	bool feature_enabled = 1;
-	repeated string enabled_countries = 2;
-}

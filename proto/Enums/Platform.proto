@@ -7,5 +7,4 @@ enum Platform {
 	ANDROID = 2;
 	OSX = 3;
 	WINDOWS = 4;
-	APPLE_WATCH = 5;
 }
